@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 📫 How to reach me **sarrionhelena@gmail.com**
+- 📫 How to reach me **[sarrionhelena@gmail.com](https://www.linkedin.com/in/helena-sarrion-exposito-a42a77263/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
