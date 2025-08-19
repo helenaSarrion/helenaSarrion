@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
-
 - 📫 How to reach me **sarrionhelena@gmail.com**
 
 - LinkedIn https://www.linkedin.com/in/helena-sarrion-exposito-a42a77263/
